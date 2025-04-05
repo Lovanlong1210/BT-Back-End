@@ -1,0 +1,23 @@
+C:\BaiTapLap1.1\BaiTapLap1.1\bin\Debug\net8.0\BaiTapLap1.1.exe
+C:\BaiTapLap1.1\BaiTapLap1.1\bin\Debug\net8.0\BaiTapLap1.1.deps.json
+C:\BaiTapLap1.1\BaiTapLap1.1\bin\Debug\net8.0\BaiTapLap1.1.runtimeconfig.json
+C:\BaiTapLap1.1\BaiTapLap1.1\bin\Debug\net8.0\BaiTapLap1.1.dll
+C:\BaiTapLap1.1\BaiTapLap1.1\bin\Debug\net8.0\BaiTapLap1.1.pdb
+C:\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.AssemblyInfoInputs.cache
+C:\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.AssemblyInfo.cs
+C:\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.csproj.CoreCompileInputs.cache
+C:\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.dll
+C:\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\refint\BaiTapLap1.1.dll
+C:\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.pdb
+C:\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.genruntimeconfig.cache
+C:\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\ref\BaiTapLap1.1.dll
+C:\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.sourcelink.json
+C:\File Bài Tập Back-End\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\File Bài Tập Back-End\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.AssemblyInfoInputs.cache
+C:\File Bài Tập Back-End\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.AssemblyInfo.cs
+C:\File Bài Tập Back-End\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.csproj.CoreCompileInputs.cache
+C:\File Bài Tập Back-End\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.sourcelink.json
+C:\File Bài Tập Back-End\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.dll
+C:\File Bài Tập Back-End\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\refint\BaiTapLap1.1.dll
+C:\File Bài Tập Back-End\BaiTapLap1.1\BaiTapLap1.1\obj\Debug\net8.0\BaiTapLap1.1.pdb
